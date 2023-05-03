@@ -8,8 +8,6 @@ The result inherits a number of of design choices and optimization tricks from [
 
 2. Adds support for nested list structure rather than just flat lists.
 
-We also did a number of other optimization techniques.
-
 
 ### Build
 
